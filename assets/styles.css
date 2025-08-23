@@ -1,0 +1,21 @@
+/**
+ * Cascading Style Sheets (CSS) is the language used to style an HTML page.
+ */
+
+* {
+    font-family: sans-serif;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+body {
+    background: #0c916f;
+}
+
+.description {
+    font-size: 18px;
+    background: white;
+    padding: 6%;
+}

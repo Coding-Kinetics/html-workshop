@@ -8,6 +8,7 @@
 
 ## Learning Materials
 - [HTML Workshop Slides](https://docs.google.com/presentation/d/1jlAtRaqKXzFXLRStrTlqj1sWopml1N-lBtmmtT4O9n4/edit?usp=sharing)
+- [Medium](https://hinchman-amanda.medium.com/lab-setup-build-publish-your-first-web-page-a16148fa21cb) Beginner-Friendly Lab Setup
 
 ## What you will need
 All the following programs are free to sign up for, and download.

@@ -8,6 +8,7 @@
 
 ## Learning Materials
 - [HTML Workshop Slides](https://docs.google.com/presentation/d/1jlAtRaqKXzFXLRStrTlqj1sWopml1N-lBtmmtT4O9n4/edit?usp=sharing)
+-   https://docs.google.com/presentation/d/145VWXtlVRgR2XeFCGq4OO3yuvNPpvRwIrbHhcMZam_8/edit?usp=sharing
 - [Medium](https://hinchman-amanda.medium.com/lab-setup-build-publish-your-first-web-page-a16148fa21cb) Beginner-Friendly Lab Setup
 
 ## What you will need
